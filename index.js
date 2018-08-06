@@ -8,7 +8,7 @@ function scuberGreetingForFeet(number) {
   else if (2000 < number < 2500) {
     result = "I will gladly take your thirty bucks."
   }
-  else if ( number > 2500) {
+  else if (number >= 2500) {
     result = "No can do."
   }
   return result
