@@ -7,9 +7,8 @@ function scuberGreetingForFeet(number) {
     return = "I will gladly take your thirty bucks."
   }
   else {
-    return = "No can do."
+    return = "No can do.";
   }
-  return result
 }
 
 function ternaryCheckCity(city) {
